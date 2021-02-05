@@ -19,6 +19,21 @@
 ###### <p align="center">*This is official repository maintained by me*
 ###### <p align="center"> *[**th3_1ucif3r**](https://www.instagram.com/th3_1ucif3r/) ❤️*
 ###### <p align="center"> *You can check [Instagram](https://www.instagram.com/th3_1ucif3r)✌*
+  
+  
+ ##AirCrackAuto
+ 
+ This tools is for Auto-mate the aircrack-ng all process for wifi hacking and jamming.
+ 
+ # Installation
+
+## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
+
+```bash
+cd aircrackauto
+bash aircrackauto.sh
+```
+
 
 
 
