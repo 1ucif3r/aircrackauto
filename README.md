@@ -8,9 +8,9 @@
 <p align=center>
   <a href="https://www.instagram.com/th3_1ucif3r"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
   <a href="https://www.instagram.com/th3_1ucif3r"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0&x2=0" ></a>
-  <a href="https://www.instagram.com/th3_1ucif3r"><img title="Stars" src="https://img.shields.io/github/stars/bhikandeshmukh/instarat?style=social" ></a>
-  <a href="https://github.com/1ucif3r/network/members"><img title="Forks" src="https://img.shields.io/github/forks/bhikandeshmukh/instarat?color=red&style=flat-square"></a>
-  <a href="https://github.com/1ucif3r"><img title="Watching" src="https://img.shields.io/github/watchers/bhikandeshmukh/instarat?label=Watchers&color=blue&style=flat-square"></a>
+  <a href="https://www.instagram.com/th3_1ucif3r"><img title="Stars" src="https://img.shields.io/github/stars/1ucif3r/aircrackauto?style=social" ></a>
+  <a href="https://github.com/1ucif3r/network/members"><img title="Forks" src="https://img.shields.io/github/forks/1ucif3r/aircrackauto?color=red&style=flat-square"></a>
+  <a href="https://github.com/1ucif3r"><img title="Watching" src="https://img.shields.io/github/watchers/1ucif3r/aircrackauto?label=Watchers&color=blue&style=flat-square"></a>
 
 [![Screenshot 2021-01-11 05:55:08](https://user-images.githubusercontent.com/61887775/104172202-dc0c5c80-53d1-11eb-8674-4c445a6bf514.png)
 
