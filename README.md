@@ -21,7 +21,6 @@
 ###### <p align="center"> *You can check [Instagram](https://www.instagram.com/th3_1ucif3r)✌*
 
 
-[![Screenshot 2021-01-11 05:55:08](https://user-images.githubusercontent.com/61887775/104172202-dc0c5c80-53d1-11eb-8674-4c445a6bf514.png)
 
  ### Development by
 
