@@ -12,7 +12,7 @@
   <a href="https://github.com/1ucif3r/network/members"><img title="Forks" src="https://img.shields.io/github/forks/1ucif3r/aircrackauto?color=red&style=flat-square"></a>
   <a href="https://github.com/1ucif3r"><img title="Watching" src="https://img.shields.io/github/watchers/1ucif3r/aircrackauto?label=Watchers&color=blue&style=flat-square"></a>
 
-[![Screenshot 2021-01-11 05:55:08](https://user-images.githubusercontent.com/61887775/104172202-dc0c5c80-53d1-11eb-8674-4c445a6bf514.png)
+(https://user-images.githubusercontent.com/61887775/104172202-dc0c5c80-53d1-11eb-8674-4c445a6bf514.png)
 
 
 
