@@ -5,7 +5,7 @@
   
    #### <p align="center">AirCrackAuto<p align="center">
   <p align="center"><img src="aircrack.png"></p> 
-  ###### <p align="center">Auto-mate the aircrack-ng all process for wifi hacking and jamming<p align="center">
+  ###### <p align="center">Auto-mate the aircrack-ng all process for wifi hacking<p align="center">
 <p align=center>
   <a href="https://www.instagram.com/th3_1ucif3r"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
   <a href="https://www.instagram.com/th3_1ucif3r"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0&x2=0" ></a>
