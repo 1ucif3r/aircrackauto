@@ -4,7 +4,7 @@
   <br>
   
 ##   <p align="center">AirCrackAuto V2<p align="center">
-  <p align="center"><img src="aircrack.png"></p> 
+  <p align="center"><img src="aircrackauto.png"></p> 
   <p align="center">Auto-mate the aircrack-ng all process for wifi hacking<p align="center">
 <p align=center>
   <a href="https://www.instagram.com/0x1ucif3r"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
