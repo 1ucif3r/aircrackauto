@@ -3,7 +3,7 @@
   
   <br>
   
-##   <p align="center">AirCrackAuto V2<p align="center"> 
+##   <p align="center">AirCrackAuto v2.0<p align="center"> 
   <p align="center">Auto-mate the aircrack-ng all process for wifi hacking<p align="center">
 <p align=center>
   <a href="https://www.instagram.com/0x1ucif3r"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
@@ -21,7 +21,7 @@
   
 ## AirCrackAuto V2
  
- This tools is for Auto-mate the aircrack-ng all process for wifi hacking . This V2 made with python3 and i added/improve some features.
+ This tools is for Auto-mate the aircrack-ng all process for wifi hacking . This v2.0 made with python3 and i added/improve some features.
   
 <p align="center"><img src="aircrack.png"></p> 
  
@@ -31,11 +31,10 @@
 
 ```bash
 cd aircrackauto
-chmod +x setup.sh
-./setup.sh
-
-python3 aircrackauto.py
+chmod +x install.sh
+./install.sh
 ```
+That's it. You can execute tool by typing **aircrackauto**
 
  ## YouTube Demo :
   Comming soon .....
