@@ -11,6 +11,8 @@
   <a href="https://www.instagram.com/0x1ucif3r"><img title="Stars" src="https://img.shields.io/github/stars/1ucif3r/aircrackauto?style=social" ></a>
   <a href="https://github.com/1ucif3r/network/members"><img title="Forks" src="https://img.shields.io/github/forks/1ucif3r/aircrackauto?color=red&style=flat-square"></a>
   <a href="https://github.com/1ucif3r"><img title="Watching" src="https://img.shields.io/github/watchers/1ucif3r/aircrackauto?label=Watchers&color=blue&style=flat-square"></a>
+  
+  <a href="https://github.com/1ucif3r/network/members"><img title="Forks" src="https://img.shields.io/github/manifest-json/v/1ucif3r/aircrackauto?style=for-the-badge"></a>
 
 
 
