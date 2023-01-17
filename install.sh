@@ -69,8 +69,8 @@ if [ $choice == 1 ] || [ $choice == 2 ]; then
 	if [[ $? == 0 ]]; then
         echo -e ${BLUE}"[✔] Loading ... "
         if [ $choice == 1 ]; then
-            sudo apt-get update -y && apt-get upgrade -y
-            sudo apt-get install python3-pip -y
+            #sudo apt-get update -y && apt-get upgrade -y
+            #sudo apt-get install python3-pip -y
         
         fi
 
