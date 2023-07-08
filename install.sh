@@ -65,14 +65,10 @@ INSTALL_DIR="/usr/share/doc/aircrackauto"
 BIN_DIR="/usr/bin/"
 if [ $choice == 1 ] || [ $choice == 2 ]; then
 	echo "[*] Checking Your Internet Connection .."
-	wget -q --tries=10 --timeout=20 --spider https://google.com
+	wget -q --tries=10 --timeout=20 --spider http://www.gstatic.com/generate_204
 	if [[ $? == 0 ]]; then
         echo -e ${BLUE}"[✔] Loading ... "
-        if [ $choice == 1 ]; then
-            #sudo apt-get update -y && apt-get upgrade -y
-            #sudo apt-get install python3-pip -y
         
-        fi
 
 	    echo "[✔] Checking directories..."
 	    if [ -d "$INSTALL_DIR" ]; then
